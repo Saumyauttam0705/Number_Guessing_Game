@@ -5,3 +5,6 @@ Then compares the user's guess with the generated number and provide feedback on
 is correct, too high, or too low.
 
  There are Three attempts for the user to guess the number and hence displays the user's score, based on the number of attempts taken or rounds won.
+
+#CodsoftInternship
+#JavaProgramming
